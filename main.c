@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main（）
 {
-     priintf("hello git!");
+     printf("hello git!");
      printf("lanjianpnig");
 }
