@@ -2,4 +2,5 @@
 void main（）
 {
      priintf("hello git!");
+     printf("lanjianpnig");
 }
